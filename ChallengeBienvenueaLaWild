@@ -1,0 +1,10 @@
+Variable
+	nbsaisi
+	message
+Fonction répéter
+	message * nbsaisi
+
+Debut
+	Lire nbsaisi
+	retourner (message*nbsaisi")
+Fin
